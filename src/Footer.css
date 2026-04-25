@@ -1,0 +1,10 @@
+.footer {
+    background: #003366;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    position: relative;  /* Fixed ki jagah relative use karo */
+    bottom: 0;
+    margin-top: 20px;
+  }
