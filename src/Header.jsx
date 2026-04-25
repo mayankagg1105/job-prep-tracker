@@ -21,21 +21,21 @@ import React from 'react'
 
     <button
       onClick={() => {
-        window.location.href = 'http://localhost:5173/';
+        window.location.href = 'https://job-prep-tracker-seven.vercel.app/';
       }}
     >
       Logout
     </button>
      <button
       onClick={() => {
-        window.location.href = 'http://localhost:5173/jobs';
+        window.location.href = 'https://job-prep-tracker-seven.vercel.app/jobs';
       }}
     >
       Jobs
     </button>
     <button
       onClick={() => {
-        window.location.href = 'http://localhost:5173/dashboard';
+        window.location.href = 'https://job-prep-tracker-seven.vercel.app/dashboard';
       }}
     >
       Dashboard
